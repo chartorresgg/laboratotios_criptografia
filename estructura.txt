@@ -1,0 +1,145 @@
+Folder PATH listing for volume OS
+Volume serial number is 00000009 268F:4CE1
+C:.
+¦   estructura.txt
+¦   README.md
+¦   requirements.txt
+¦   
++---.ipynb_checkpoints
+¦       aaa-checkpoint.ipynb
+¦       cesar-checkpoint.ipynb
+¦       laboratorio1_criptografia-checkpoint.ipynb
+¦       
++---00_aritmetica_modular
+¦   ¦   00_aritmetica_modular.ipynb
+¦   ¦   00_aritmetica_modular.py
+¦   ¦   
+¦   +---.ipynb_checkpoints
+¦           00_aritmetica_modular-checkpoint.ipynb
+¦           00_aritmetica_modular-checkpoint.json
+¦           
++---01_cifrados_clasicos
+¦   ¦   parcial.py
+¦   ¦   sustitucion.py
+¦   ¦   
+¦   +---01_cesar
+¦   ¦   ¦   01_cifrado_cesar.py
+¦   ¦   ¦   01_crifrado_cesar.ipynb
+¦   ¦   ¦   
+¦   ¦   +---.ipynb_checkpoints
+¦   ¦           01_crifrado_cesar-checkpoint.ipynb
+¦   ¦           
+¦   +---02_affin
+¦   ¦       02_cifrado_affin.ipynb
+¦   ¦       02_cifrado_affin.py
+¦   ¦       
+¦   +---03_vigenere
+¦   ¦       03_cifrado_vigenere.ipynb
+¦   ¦       03_cifrado_vigenere.py
+¦   ¦       
+¦   +---04_sustitucion
+¦   ¦       04_cifrado_sustitucion.ipynb
+¦   ¦       04_cifrado_sustitucion.py
+¦   ¦       
+¦   +---05_hill
+¦       ¦   05_cifrado_hill.ipynb
+¦       ¦   05_cifrado_hill.py
+¦       ¦   
+¦       +---.ipynb_checkpoints
+¦               05_cifrado_hill-checkpoint.ipynb
+¦               
++---02_cifrados_simetricos
+¦   ¦   aes.py
+¦   ¦   des.py
+¦   ¦   rc4.py
+¦   ¦   
+¦   +---notebooks
+¦   ¦       lab02_des.ipynb
+¦   ¦       lab03_aes.ipynb
+¦   ¦       lab04_rc4.ipynb
+¦   ¦       
+¦   +---tests
+¦           test_simetricos.py
+¦           
++---03_cifrados_asimetricos
+¦   +---01_diffie_hellman
+¦   ¦       01_crifrado_diffiehellman.ipynb
+¦   ¦       01_crifrado_diffiehellman.py
+¦   ¦       
+¦   +---02_elgamal
+¦   ¦       02_crifrado_elgamal.ipynb
+¦   ¦       02_crifrado_elgamal.py
+¦   ¦       
+¦   +---03_rsa
+¦   ¦   ¦   03_cifrado_rsa.ipynb
+¦   ¦   ¦   03_cifrado_rsa.py
+¦   ¦   ¦   test_rsa.py
+¦   ¦   ¦   
+¦   ¦   +---.ipynb_checkpoints
+¦   ¦           03_cifrado_rsa-checkpoint.ipynb
+¦   ¦           
+¦   +---notebooks
+¦   ¦       lab05_rsa.ipynb
+¦   ¦       lab07_elgamal.ipynb
+¦   ¦       
+¦   +---tests
+¦           test_asimetricos.py
+¦           
++---04_funciones_hash
+¦   ¦   md5_custom.py
+¦   ¦   sha_custom.py
+¦   ¦   
+¦   +---notebooks
+¦   ¦       lab08_hash_functions.ipynb
+¦   ¦       
+¦   +---tests
+¦           test_hash.py
+¦           
++---05_firmas_digitales
+¦   ¦   dsa.py
+¦   ¦   rsa_signature.py
+¦   ¦   
+¦   +---notebooks
+¦   ¦       lab09_digital_signatures.ipynb
+¦   ¦       
+¦   +---tests
+¦           test_signatures.py
+¦           
++---06_protocolos
+¦   ¦   pki_demo.py
+¦   ¦   ssl_tls_demo.py
+¦   ¦   
+¦   +---notebooks
+¦   ¦       lab10_protocolos.ipynb
+¦   ¦       
+¦   +---tests
+¦           test_protocolos.py
+¦           
++---07_laboratorios
+¦   +---01_lab_primercorte
+¦   ¦   ¦   01_laboratorio_primercorte.ipynb
+¦   ¦   ¦   lab01_enunciado.ipynb
+¦   ¦   ¦   
+¦   ¦   +---.ipynb_checkpoints
+¦   ¦           01_laboratorio_primercorte-checkpoint.ipynb
+¦   ¦           
+¦   +---02_lab_segundocorte
+¦   ¦       02_laboratorio_segundocorte.ipynb
+¦   ¦       
+¦   +---03_lab_tercercorte
+¦           03_laboratorio_tercercorte.ipynb
+¦           
++---08_competencias
+¦       comp01_textoscifrados.ipynb
+¦       
++---docs
+¦       referencias.md
+¦       teoria_aes.md
+¦       teoria_rsa.md
+¦       
++---utils
+        conversion.py
+        math_utils.py
+        visualization.py
+        __init__.py
+        
